@@ -17,3 +17,22 @@ E:\VisualStudioProjects\DiscordBot\DiscordBot\bin\Debug\RestSharp.xml
 E:\VisualStudioProjects\DiscordBot\DiscordBot\obj\Debug\DiscordBot.csprojResolveAssemblyReference.cache
 E:\VisualStudioProjects\DiscordBot\DiscordBot\obj\Debug\DiscordBot.exe
 E:\VisualStudioProjects\DiscordBot\DiscordBot\obj\Debug\DiscordBot.pdb
+C:\Users\Andrew Riggs\GIT REPOS\DiscordBot\DiscordBot\bin\Debug\DiscordBot.exe.config
+C:\Users\Andrew Riggs\GIT REPOS\DiscordBot\DiscordBot\obj\Debug\DiscordBot.exe
+C:\Users\Andrew Riggs\GIT REPOS\DiscordBot\DiscordBot\obj\Debug\DiscordBot.pdb
+C:\Users\Andrew Riggs\GIT REPOS\DiscordBot\DiscordBot\bin\Debug\DiscordBot.exe
+C:\Users\Andrew Riggs\GIT REPOS\DiscordBot\DiscordBot\bin\Debug\DiscordBot.pdb
+C:\Users\Andrew Riggs\GIT REPOS\DiscordBot\DiscordBot\bin\Debug\Discord.Net.Commands.dll
+C:\Users\Andrew Riggs\GIT REPOS\DiscordBot\DiscordBot\bin\Debug\Discord.Net.dll
+C:\Users\Andrew Riggs\GIT REPOS\DiscordBot\DiscordBot\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Andrew Riggs\GIT REPOS\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Concurrent.dll
+C:\Users\Andrew Riggs\GIT REPOS\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.dll
+C:\Users\Andrew Riggs\GIT REPOS\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Enlightenment.dll
+C:\Users\Andrew Riggs\GIT REPOS\DiscordBot\DiscordBot\bin\Debug\RestSharp.dll
+C:\Users\Andrew Riggs\GIT REPOS\DiscordBot\DiscordBot\bin\Debug\WebSocket4Net.dll
+C:\Users\Andrew Riggs\GIT REPOS\DiscordBot\DiscordBot\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Andrew Riggs\GIT REPOS\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.xml
+C:\Users\Andrew Riggs\GIT REPOS\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Concurrent.xml
+C:\Users\Andrew Riggs\GIT REPOS\DiscordBot\DiscordBot\bin\Debug\Nito.AsyncEx.Enlightenment.xml
+C:\Users\Andrew Riggs\GIT REPOS\DiscordBot\DiscordBot\bin\Debug\RestSharp.xml
+C:\Users\Andrew Riggs\GIT REPOS\DiscordBot\DiscordBot\obj\Debug\DiscordBot.csprojResolveAssemblyReference.cache
